@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Vélo à Rennes</string>
+    <string name="app_name">Velo Rennes</string>
     <string name="recupArceaux">Récupération des données en cours.</string>
     <string name="erreurResaux">Une erreur réseau est survenue, merci de réessayer plus tard.</string>
 </resources>
