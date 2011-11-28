@@ -1,0 +1,9 @@
+h1. Transports Rennes
+
+Il s'agit d'une application Android utilisant les données fournies par Rennes Métropole dans le cadre de l'ouvertude des données, dit "l'open-data":http://www.data.rennes-metropole.fr.
+Le but de cette application est de présenter la position des arceaux de vélos à Rennes.
+
+h1. License
+
+L'ensemble du code source est sous "GPL v3":http://www.gnu.org/licenses/gpl-3.0.html.
+
