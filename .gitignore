@@ -1,0 +1,7 @@
+*.iml
+bin
+target
+gen
+**/.DS_Store
+*.ipr
+*.iws
